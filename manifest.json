@@ -1,0 +1,9 @@
+{
+  "name": "Tesla Model 3 Battery Tracker",
+  "short_name": "Tesla Battery",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111111",
+  "description": "Battery health, charging, range and cost tracker for a Tesla Model 3."
+}
